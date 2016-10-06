@@ -1,0 +1,14 @@
+---
+excluded_paths:
+  globally:
+  - "Godeps"
+  - "vendor"
+  - "staging"
+  - ".git"
+  - ".github"
+  by_reviewer:
+  - reviewer:
+    paths:
+review_agreements:
+- reviewer: 
+  paths:
