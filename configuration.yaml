@@ -22,3 +22,5 @@ review_agreements:
   paths: /
 - reviewer: ingvagabund
   paths: /
+- reviewer: rutsky
+  paths: /
