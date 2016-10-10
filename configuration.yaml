@@ -10,5 +10,13 @@ excluded_paths:
   - reviewer:
     paths:
 review_agreements:
-- reviewer: 
-  paths:
+- reviewer: silasbw
+  paths: /
+- reviewer: jasonbrooks
+  paths: /
+- reviewer: aledbf
+  paths: /
+- reviewer: louis-paul
+  paths: /
+- reviewer: jasonbrooks
+  paths: /
