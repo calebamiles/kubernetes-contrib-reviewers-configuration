@@ -20,3 +20,5 @@ review_agreements:
   paths: /
 - reviewer: jasonbrooks
   paths: /
+- reviewer: ingvagabund
+  paths: /
